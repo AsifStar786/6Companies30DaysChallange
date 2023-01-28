@@ -1,6 +1,5 @@
 // Second Question of Challange 1
-// Question Name:-
-// Combination Sum - III
+// Question Name:- Combination Sum - III
 // Leetcode #216
 
 #include<bits/stdc++.h>

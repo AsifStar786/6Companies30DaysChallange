@@ -1,6 +1,5 @@
 // Question #15 of Challange 1
-// Question Name:-
-// number of substrings with at least one appearence of 'a', 'b' and 'c'
+// Question Name:- number of substrings with at least one appearence of 'a', 'b' and 'c'
 // Leetcode #1358
 
 class Solution {

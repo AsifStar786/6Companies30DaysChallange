@@ -1,6 +1,5 @@
 // Question #7 of Challange 1
-// Question Name:-
-// Course Sceduling
+// Question Name:- Course Sceduling
 // Leetcode #207
 
 #include<bits.stdc++.h>

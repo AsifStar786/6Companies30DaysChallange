@@ -1,6 +1,5 @@
 // Question #8 of Challange 1
-// Question Name:-
-// Optimal path in a tree
+// Question Name:- Optimal path in a tree
 // Leetcode # 2467
 
 class Solution {

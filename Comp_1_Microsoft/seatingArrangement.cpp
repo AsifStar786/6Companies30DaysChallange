@@ -1,6 +1,5 @@
 // Question #13 of Challange 1
-// Question Name:-
-// seating arrangement in a jet plane with n passangers....
+// Question Name:- seating arrangement in a jet plane with n passangers....
 // Leetcode #1227
 
 class Solution {

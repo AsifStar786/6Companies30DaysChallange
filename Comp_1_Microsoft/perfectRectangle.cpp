@@ -1,6 +1,5 @@
 // #6 Question of Challange 1
-// Question Name:-
-// Form Perfect Rectangle
+// Question Name:- Form Perfect Rectangle
 // Leetcode #391
 
 #include<bits.stdc++.h>

@@ -1,6 +1,5 @@
 // Question #14 of Challange 1
-// Question Name:-
-// minimum no of deletions made in array1 to make all element in array2 by min element of array1
+// Question Name:- minimum no of deletions made in array1 to make all element in array2 by min element of array1
 // Leetcode #2344
 
 class Solution {

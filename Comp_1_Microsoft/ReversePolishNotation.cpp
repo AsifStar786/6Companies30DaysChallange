@@ -1,6 +1,5 @@
 // First Question of Challange 1
-// Question Name:-
-// You are given an array of strings tokens that represents an arithmetic expression in a Reverse Polish Notation.
+// Question Name:- You are given an array of strings tokens that represents an arithmetic expression in a Reverse Polish Notation.
 // Leetcode #150
 
 #include<bits/stdc++.h>

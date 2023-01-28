@@ -1,6 +1,5 @@
 // Third Question of Challange 1
-// Question Name:-
-// Bulls and Cows
+// Name:- Bulls and Cows
 // Leetcode #299
 
 #include<bits/stdc++.h>

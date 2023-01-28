@@ -1,6 +1,5 @@
 // Question #12 of Challange 1
-// Question Name:-
-// Longest Happy Prefix of a string that is a prefix as well as a suffix
+// Question Name:- Longest Happy Prefix of a string
 // Leetcode #1392
 
 #include<bits/stdc++.h>

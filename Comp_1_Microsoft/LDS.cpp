@@ -1,6 +1,5 @@
 // Fifth Question of Challange 1
-// Question Name:-
-// Largest Divisible Subset
+// Question Name:- Largest Divisible Subset
 // Leetcode #368
 
 #include<bits/stdc++.h>

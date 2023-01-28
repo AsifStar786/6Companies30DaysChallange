@@ -1,6 +1,5 @@
 // Question #9 of Challange 1
-// Question Name:-
-// number of pairs that satisfies inequality
+// Question Name:- number of pairs that satisfies inequality
 // Leetcode #2426
 
 #include<bits/stdc++.h>

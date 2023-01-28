@@ -1,6 +1,5 @@
 // Question #11 of Challange 1
-// Question Name:-
-// Number of ways to arrive destination in min time
+// Question Name:- Number of ways to arrive destination in min time
 // Leetcode #1976
 
 

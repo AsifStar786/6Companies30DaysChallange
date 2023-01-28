@@ -1,4 +1,4 @@
-//  Question #8 of challenge #2(Goldman Sachs)
+//  Question #8 of challenge #3(Adobe)
 //  Name - Gene Mutation...
 //  LeetCode #433
 
